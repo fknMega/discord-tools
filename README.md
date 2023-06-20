@@ -1,6 +1,8 @@
 # discord-tools
 An Updating Collection of Discord Apps and Tools
 
+### Wanna add your tool in this list?
+Place a ⭐ in the top right and make a pull request [here](https://github.com/fknMega/discord-tools/pulls)
 
 | Name | Description | Author | Language | Link |
 | ---- | ----------- | ------- | -------- | ---- |
