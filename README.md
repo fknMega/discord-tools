@@ -14,8 +14,8 @@ Place a ⭐ in the top right and make a pull request [here](https://github.com/f
 | ReboundGuardian | A discord selfbot which will make you unkickable from any group. | fknMega | Node-JS | [URL](https://github.com/fknMega/ReboundGuardian)
 | GANG-Nuker | Discord Nuker/Raider with 32+ Options! | TT-Tutorials | Python | [URL](https://github.com/TT-Tutorials/GANG-Nuker)
 | Discord Selfbot Sniper | Latest Discord Username Sniper Made for the new Username System | fknMega | Node-JS | [URL](https://github.com/fknMega/discord-username-sniper)
-| Nitro Token Checker | Nitro Token Checker with a fast threading system | AtheenN | Python [URL](https://github.com/Blaze-1111/nitro-token-checker)
-
+| Nitro Token Checker | Nitro Token Checker with a fast threading system | AtheenN | Python | [URL](https://github.com/AtheenN/nitro-token-checker)
+| Server Boosts Tool | Fast & lightweight boost tool boosts 14x in 2.21seconds easily | AtheenN | Python | [URL](https://github.com/AtheenN/Boost-Tool)
 
 
 </div>
