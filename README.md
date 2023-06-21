@@ -1,6 +1,8 @@
 # discord-tools
 An Updating Collection of Open Source Discord Apps and Tools
 
+[Discord Server](https://discord.gg/andrew)
+
 ### Wanna add your tool in this list?
 Place a ⭐ in the top right and make a pull request [here](https://github.com/fknMega/discord-tools/edit/main/README.md)
 
