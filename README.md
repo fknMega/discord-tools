@@ -21,3 +21,8 @@ Place a ⭐ in the top right and make a pull request [here](https://github.com/f
 | Discord Nitro-Generator and Checker | Generate discord nitro codes and check them | logicguy1 | Python | [URL](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
 
 </div>
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fknMega/discord-tools&type=Date)](https://star-history.com/#fknMega/discord-tools&Date)
