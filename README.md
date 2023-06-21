@@ -21,7 +21,7 @@ Place a ⭐ in the top right and make a pull request [here](https://github.com/f
 | Server Boosts Tool | Fast & lightweight boost tool boosts 14x in 2.21seconds easily | AtheenN | Python | [URL](https://github.com/AtheenN/Boost-Tool)
 | Discord User Lookup | Lookup or search any discord user, using their id! | fknMega | Python | [URL](https://github.com/fknMega/Discord-User-Lookup)
 | Discord Nitro-Generator and Checker | Generate discord nitro codes and check them | logicguy1 | Python | [URL](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
-
+| Promotional Code Checker & Sorter | Free to use promo code checker that tells when a promo code will expire and what type of code | Pixens | GO | [URL](https://github.com/Pixens/Discord-Promo-Code-Checker)
 </div>
 
 
