@@ -27,4 +27,4 @@ Place a ⭐ in the top right and make a pull request [here](https://github.com/f
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=fknMega/discord-tools&type=Date)](https://star-history.com/#fknMega/discord-tools&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=fknMega/discord-tools,Pixens/Token-Mail-Verifier,fknMega/ReboundGuardian,TT-Tutorials/GANG-Nuker,fknMega/discord-username-sniper,AtheenN/nitro-token-checker,AtheenN/Boost-Tool,fknMega/Discord-User-Lookup,logicguy1/Discord-Nitro-Generator-and-Checker&type=Date)](https://star-history.com/#fknMega/discord-tools&Pixens/Token-Mail-Verifier&fknMega/ReboundGuardian&TT-Tutorials/GANG-Nuker&fknMega/discord-username-sniper&AtheenN/nitro-token-checker&AtheenN/Boost-Tool&fknMega/Discord-User-Lookup&logicguy1/Discord-Nitro-Generator-and-Checker&Date)
