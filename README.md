@@ -30,9 +30,9 @@ Place a ⭐ in the top right and make a pull request [here](https://github.com/f
 | Account Parserr | A tool for discord. Parsing all guilds on an account  | arda1337 | Node-JS | [URL](https://github.com/arda1337/account-guild-parser)
 | Discord-BACKUP | Was always wondering to backup your servers invite & groups to not lose them when getting termed? This is the best way to do it. | itschasa | Python | [URL](https://github.com/itschasa/Discord-Backup)
 | NukeCord | A Discord self-bot for raiding servers written in Typescript. | DarkGuy10 | TypeScript | [URL](https://github.com/DarkGuy10/Nukecord)
-| Discord Selfbot | Luna selfbot is one of the best way to be a god and BE the owner of the Discord also be an evil and troll peoples | nshoutskiddingservice[URL](https://github.com/nshoutskiddingservice/Luna-selfbot-source-code/)
+| Discord Selfbot | Luna selfbot is one of the best way to be a god and BE the owner of the Discord also be an evil and troll peoples | nshoutskiddingservice | [URL](https://github.com/nshoutskiddingservice/Luna-selfbot-source-code/)
 | Discord-Telegram forwarder | Selfbot to send your incoming Discord messages to Telegram  | tapnnisu | Rust | [URL](https://github.com/tapnisu/dsc-tg-forwarder)
-| Discord RPC self | Discord RPC Tool that gives you a custom playing status like a bot | Dekita | Node-JS [URL](https://github.com/Dekita/Discord-RPC-Tool]
+| Discord RPC self | Discord RPC Tool that gives you a custom playing status like a bot | Dekita | Node-JS | [URL](https://github.com/Dekita/Discord-RPC-Tool]
 | Discord Friend Request Spammer | This tool spam friends requests to a user | catcha8 | Python | [URL](https://github.com/catcha8/Discord-Friend-Spammer)
 | Discord DM ALl |  A discord tool (selfbot) designed to dm all your servers and friends. | xYosemite | Node-JS | [URL](https://github.com/xYosemite/Dm-All)
 </div>
