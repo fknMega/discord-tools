@@ -22,8 +22,7 @@ Place a ⭐ in the top right and make a pull request [here](https://github.com/f
 | Discord User Lookup | Lookup or search any discord user, using their id! | fknMega | Python | [URL](https://github.com/fknMega/Discord-User-Lookup)
 | Discord Nitro-Generator and Checker | Generate discord nitro codes and check them | logicguy1 | Python | [URL](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
 | Promotional Code Checker & Sorter | Free to use promo code checker that tells when a promo code will expire and what type of code | Pixens | GO | [URL](https://github.com/Pixens/Discord-Promo-Code-Checker)
-| Discord Token Mail Verifier | A tool that verifies email of a discord token using kopeechka's API. | Pixens | Python | [URL](https://github.com/Pixens/Token-Mail-Verifier)
-
+| Discord Token Generator | A Tool that generates discord accounts with captcha solving | Sysy242 | Python | [URL](https://github.com/Sysys242/Discord-Token-Generator)
 
 </div>
 
