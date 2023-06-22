@@ -23,6 +23,8 @@ Place a ⭐ in the top right and make a pull request [here](https://github.com/f
 | Discord Nitro-Generator and Checker | Generate discord nitro codes and check them | logicguy1 | Python | [URL](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
 | Promotional Code Checker & Sorter | Free to use promo code checker that tells when a promo code will expire and what type of code | Pixens | GO | [URL](https://github.com/Pixens/Discord-Promo-Code-Checker)
 | Discord Token Generator | A Tool that generates discord accounts with captcha solving | Sysy242 | Python | [URL](https://github.com/Sysys242/Discord-Token-Generator)
+| BitBoost | Server Boosting tool that boosts servers using nitro tokens | BitStore-dev | Python | [URL](https://github.com/BitStore-dev/BitBoost)
+
 
 </div>
 
