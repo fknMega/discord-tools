@@ -11,6 +11,8 @@ Place a ⭐ in the top right and make a pull request [here](https://github.com/f
 ## Collection:
 > ** **
 
+Lookup users: https://namedc.org/
+
 | Name | Description | Author | Language | Link |
 | ---- | ----------- | ------- | -------- | ---- |
 | Token-Mail-Verifier | A tool that verifies email of a discord token using kopeechka's API. | Pixens | Python | [URL](https://github.com/Pixens/Token-Mail-Verifier)
