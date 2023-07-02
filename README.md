@@ -46,6 +46,7 @@ Lookup users: https://namedc.org/
 | GroupChat Bomber | Discord Groupchat MultiToool | YABOIpy | GO | [URL](https://github.com/YABOIpy/GC-Bomber)
 | Nitro Generator and Checker AIO | gen nitro codes and automatically pasre them to checker fast | Kryptonite | C# | [URL](https://github.com/MyKryptonite/Nitro-Generator-Checker)
 | Discord Meme Scraper | scarp posts/memes and send them to webhook | Kryptonite | C# | [URL](https://github.com/MyKryptonite/Meme-Scraper)
+| Selfcord.py | A Discord API wrapper designed for selfbots, with new features | Shell1010 | Python | [URL](https://github.com/Shell1010/Selfcord)
 
 </div>
 
