@@ -45,7 +45,7 @@ Lookup users: https://namedc.org/
 | Discord Token Checker | Do you want to check your tokens fast asf without proxies & ratelimit? | YABOIpy | GO | [URL](https://github.com/YABOIpy/GTC)
 | GroupChat Bomber | Discord Groupchat MultiToool | YABOIpy | GO | [URL](https://github.com/YABOIpy/GC-Bomber)
 | Nitro Generator and Checker AIO | gen nitro codes and automatically pasre them to checker fast | Kryptonite | C# | [URL](https://github.com/MyKryptonite/Nitro-Generator-Checker)
-| Discord Meme Scraper | scarp posts/memes and send them to webhook | Kryptonite | C# | [URL]([https://github.com/MyKryptonite/Nitro-Generator-Checker](https://github.com/MyKryptonite/Meme-Scraper)
+| Discord Meme Scraper | scarp posts/memes and send them to webhook | Kryptonite | C# | [URL](https://github.com/MyKryptonite/Meme-Scraper)
 
 </div>
 
